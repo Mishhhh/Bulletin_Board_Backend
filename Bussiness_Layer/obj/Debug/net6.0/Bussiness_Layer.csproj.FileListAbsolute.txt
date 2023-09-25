@@ -1,0 +1,15 @@
+C:\Users\ManasMishra\source\repos\Bulletin_Board\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.deps.json
+C:\Users\ManasMishra\source\repos\Bulletin_Board\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.dll
+C:\Users\ManasMishra\source\repos\Bulletin_Board\Bussiness_Layer\bin\Debug\net6.0\Bussiness_Layer.pdb
+C:\Users\ManasMishra\source\repos\Bulletin_Board\Bussiness_Layer\bin\Debug\net6.0\DataAccess.dll
+C:\Users\ManasMishra\source\repos\Bulletin_Board\Bussiness_Layer\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\ManasMishra\source\repos\Bulletin_Board\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.AssemblyReference.cache
+C:\Users\ManasMishra\source\repos\Bulletin_Board\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ManasMishra\source\repos\Bulletin_Board\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.AssemblyInfoInputs.cache
+C:\Users\ManasMishra\source\repos\Bulletin_Board\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.AssemblyInfo.cs
+C:\Users\ManasMishra\source\repos\Bulletin_Board\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.CoreCompileInputs.cache
+C:\Users\ManasMishra\source\repos\Bulletin_Board\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.csproj.CopyComplete
+C:\Users\ManasMishra\source\repos\Bulletin_Board\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.dll
+C:\Users\ManasMishra\source\repos\Bulletin_Board\Bussiness_Layer\obj\Debug\net6.0\refint\Bussiness_Layer.dll
+C:\Users\ManasMishra\source\repos\Bulletin_Board\Bussiness_Layer\obj\Debug\net6.0\Bussiness_Layer.pdb
+C:\Users\ManasMishra\source\repos\Bulletin_Board\Bussiness_Layer\obj\Debug\net6.0\ref\Bussiness_Layer.dll
